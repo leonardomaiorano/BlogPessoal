@@ -1,13 +1,9 @@
 #img-bg{
-    background-image: url('https://i.imgur.com/cNa2NvZ.png');
+    background-image: url('https://i.imgur.com/va6pppq.png');
 
     min-height: 800px;
     margin-top: 5em;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-button {
-    border: 1px solid grey;
 }

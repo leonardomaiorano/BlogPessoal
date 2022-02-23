@@ -22,3 +22,7 @@ ul.social-network li {
 .fa-github-alt:hover {
     color: blueviolet
 }
+
+#bg-footer{
+    background-image: linear-gradient(rgb(179, 179, 179), rgb(61, 61, 61));
+}

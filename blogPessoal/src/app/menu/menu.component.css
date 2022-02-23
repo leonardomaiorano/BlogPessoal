@@ -5,3 +5,7 @@
 a {
     cursor: pointer;
 }
+
+#bg-menu{
+    background-image: linear-gradient(rgb(65, 4, 116), rgb(98, 6, 173));
+}
